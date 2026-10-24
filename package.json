@@ -1,0 +1,41 @@
+{
+  "name": "mev-arbitrage-and-liquidation-reference",
+  "version": "1.5.0",
+  "description": "Reference Solidity Aave V3 Flash-Loan Atomic DEX Arbitrage & Liquidation Executor + TypeScript Searcher & Honeypot Token Checker. Maintained by MEV DAO (https://mevdao.org)",
+  "main": "dist/searcher.js",
+  "type": "module",
+  "scripts": {
+    "searcher": "tsx src/searcher.ts",
+    "honeypot-check": "tsx src/honeypotChecker.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "mev-arbitrage-bot",
+    "aave-liquidation-bot",
+    "custom-mev-bot-development",
+    "how-do-mev-bots-make-money",
+    "honeypot-token-checker",
+    "flash-loan",
+    "aave-v3",
+    "uniswap-v3",
+    "mev-dao",
+    "solidity"
+  ],
+  "homepage": "https://mevdao.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mevdao-org/mev-arbitrage-and-liquidation-reference.git"
+  },
+  "author": "MEV DAO <research@mevdao.org> (https://mevdao.org)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "viem": "^2.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}
