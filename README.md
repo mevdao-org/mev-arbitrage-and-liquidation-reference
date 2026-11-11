@@ -197,3 +197,9 @@ Released under the [MIT License](./LICENSE) by **MEV DAO** (`research@mevdao.org
 - [Open-Source Solidity MEV Bot Scam Detector (`mevdao-org/solidity-mev-bot-scam-detector`)](https://github.com/mevdao-org/solidity-mev-bot-scam-detector)
 - [MEV Bot for Sale? What's Real, What's a Scam, and What It Should Cost](https://mevdao.org/blog/mev-bot-for-sale-what-s-real-what-s-a-scam-and-what-it-should-cost)
 - [The YouTube MEV Bot Scam: How the "Remix Contract" Drains Your ETH](https://mevdao.org/blog/the-youtube-mev-bot-scam-how-the-remix-contract-drains-your-eth)
+
+### Further reading (Nov 2026)
+- [How to test an MEV bot on a mainnet fork with Anvil](https://mevdao.org/blog/how-to-test-an-mev-bot-on-a-mainnet-fork-with-anvil)
+- [Liquidation bot development on Compound, Morpho and Spark](https://mevdao.org/blog/liquidation-bot-development-compound-morpho-spark)
+- [A backrunning bot on Ethereum as a first MEV-Share strategy](https://mevdao.org/blog/backrunning-bot-on-ethereum-first-mev-share-strategy)
+- [How to create an MEV bot, from mempool to first bundle](https://mevdao.org/blog/how-to-create-a-mev-bot-from-mempool-to-first-bundle)
