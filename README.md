@@ -203,3 +203,4 @@ Released under the [MIT License](./LICENSE) by **MEV DAO** (`research@mevdao.org
 - [Liquidation bot development on Compound, Morpho and Spark](https://mevdao.org/blog/liquidation-bot-development-compound-morpho-spark)
 - [A backrunning bot on Ethereum as a first MEV-Share strategy](https://mevdao.org/blog/backrunning-bot-on-ethereum-first-mev-share-strategy)
 - [How to create an MEV bot, from mempool to first bundle](https://mevdao.org/blog/how-to-create-a-mev-bot-from-mempool-to-first-bundle)
+- If a bot key or hot wallet ever leaks, this is how [sweeper bot rescue for a hacked wallet](https://mevdao.org/blog/rescue-tokens-from-a-compromised-wallet-sweeper-bot-rescue-service) works with private bundles
